@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="uft-8">
+		<title>One Page Site Assignment</title> 
+	</head>
+	<body>
+		<p>
+			Please input your information accordingly.
+		</p>
+			<form action="" method="post">
+				<input class="rsvp" type="text" value="First Name">
+				<input class="rsvp" type="text" value="Last Name">
+				<input class="rsvp" type="text" value="Email Address">
+				<div class="form-spacer">
+				</div>
+				<div>
+				</div>
+			</form>
+					<div>
+						<input type="submit" value="Submit">
+					</div>
+				
+					<div>
+						<div>
+							<div>
+								<div>
+									<div>
+										<p>
+											Which Photos would you like to see?
+										</p>
+											<ul>
+												<a href="#space" id="link"><li>Space</li></a>
+												<a href="#sports" id="link"><li>Sports</li></a>
+												<a href="#wildlife" id="link"><li>Wildlife</li></a>
+												<a href="#plant" id="link"><li>Plant</li></a>
+											</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				<div>
+				</div>
+			<div>
+			</div>
+	</body>
+</html>
